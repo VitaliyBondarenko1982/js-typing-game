@@ -90,6 +90,10 @@ input {
   margin-top: 10px;
 }
 
+input:focus {
+  outline: none;
+}
+
 .score-container {
   position: absolute;
   top: 60px;
